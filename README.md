@@ -6,12 +6,6 @@ This project is a clone of the Makemore project, focusing on [brief description 
 
 These instructions will help you set up the project on your local machine for development and testing purposes.
 
-### Prerequisites
-
-- Python 3.7+
-- PyTorch
-- [Any other dependencies]
-
 ### Installation
 
 1. Clone the repository:
@@ -21,7 +15,7 @@ These instructions will help you set up the project on your local machine for de
 
 2. Navigate to the project directory:
    ```
-   cd makemore_clone
+   cd makemore-clone
    ```
 
 3. Install required packages:
@@ -29,19 +23,7 @@ These instructions will help you set up the project on your local machine for de
    pip install -r requirements.txt
    ```
 
-## Usage
-
-[Provide basic instructions on how to use your project]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the [choose a license] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- Original Makemore project by [original author]
-- [Any other acknowledgments]
+- Original Makemore project by Andrej Karpathy
